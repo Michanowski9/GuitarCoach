@@ -1,0 +1,1 @@
+python tests/main_test.py -v

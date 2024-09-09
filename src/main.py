@@ -9,6 +9,9 @@ def main():
     mainWindow = MainWindow()
     sys.exit(app.exec())
 
+#func for tests
+def add(a,b):
+    return a+b
 
 if __name__ == "__main__":
     main()
